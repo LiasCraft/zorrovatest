@@ -698,6 +698,28 @@ collections:
             label: Text
             name: '-5c5f6f86'
             widget: string
+          - hint: >-
+              Original text: 1. Крутой ролик ведущего мероприятий - не с
+              мероприятий, key: -6fb59ddb
+            label: Text
+            name: '-6fb59ddb'
+            widget: string
+          - hint: 'Original text: 2. Корпоративный SHOWREEL, key: -5c59bedf'
+            label: Text
+            name: '-5c59bedf'
+            widget: string
+          - hint: 'Original text: 3. Ведущий на гала-ужин, key: 11910f3'
+            label: Text
+            name: 11910f3
+            widget: string
+          - hint: 'Original text: 4. Ведущий ЛЕТНЕГО корпоративА, key: -66582ae4'
+            label: Text
+            name: '-66582ae4'
+            widget: string
+          - hint: 'Original text: 5. Интервью на welcome, key: 1de1d962'
+            label: Text
+            name: 1de1d962
+            widget: string
       - label: Links
         name: links
         file: cms/_data/links.json
